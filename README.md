@@ -4,7 +4,7 @@ Dieses Libre/Open Office Dokument ist für die Berechnung der Mahlzeiten bei ket
 Das Dokument ist erstellt für KD bei Kindern. Es kann auch für Erwachsene genu8tzt werden, aber es fehlt der Einbezug von z.B. Alkohol in die Energieberechnung ...
 
 Es wurde mit Libre Office (https://de.libreoffice.org/) erstellt. Ich empfehle auch Libre Office zu verwenden.
-Die Excel Version ist nicht getestet ... viel Glück :-)
+Es ist möglich das Dokument auch in MS Excel zu konvertieren, allerdings ist dort die Bedienung zu unhandlich, daher besser Libreoffice (gibts für Windows, Mac, Linux und andere) nutzen.   
 
-Anmerkung etwas später: Nach live-Erlebnis der Tabelle mit Excel, kann ichnur eimpfehlen diese mit Libreoffice zu nutzen.
+Die Navigation in den Combo-Boxen / Drop Down Boxen / Aufklapp-Dinggern / (oder wie jeder dies nennen möchte) geht gewöhnungsbedürftig OK wenn man einfach lostippt. Es wird dann immer zum passenden Eintrag gesprungen ... einfach etwas probieren.
 
